@@ -1,0 +1,4 @@
+The Basic CNN model achieved around 98% test accuracy on the MNIST dataset, 
+which shows that the network learned to classify handwritten digits very effectively.
+The training loss decreased consistently over epochs, indicating good convergence during training.
+The visualized first-layer filters and sample test predictions also confirm that the model extracted meaningful features and performed accurate classification on unseen images.
